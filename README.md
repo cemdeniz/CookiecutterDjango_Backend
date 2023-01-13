@@ -1,6 +1,6 @@
-# Riot_App
+# Dockerized Cookiecutter Django backend project with Celery workers
 
-My Backend Riot App
+Dockerized Backend Project that requests player's datas from Riot Games API and stores in database models.
 
 [![Built with Cookiecutter Django](https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg?logo=cookiecutter)](https://github.com/cookiecutter/cookiecutter-django/)
 [![Black code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
